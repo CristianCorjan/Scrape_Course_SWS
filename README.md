@@ -44,9 +44,9 @@ This script requires:
 To execute the script type: ```ṕython3 SWS_Scraper.py```
 
 ## **Limitations**
-- If Google blocks too many searches, some courses will return **"No result found."**
-- Some courses require **manual checking** if their structure differs from the standard TUM course pages.
-- This tool is designed for both **Bachelor and Master students** at TUM.
+- If Google blocks too many searches, some courses will return "No result found."
+- Some courses require manual checking if their structure differs from the standard TUM course pages.
+- This tool is designed for both Bachelor and Master students at TUM.
 
 ## **License**
 This project is licensed under the Apache 2.0 license, meaning you can freely use, modify, and distribute it.
