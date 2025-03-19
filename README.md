@@ -40,6 +40,9 @@ This script requires:
   pip install beautifulsoup4 requests googlesearch-python
   ```
 
+## **Script execution**
+To execute the script type: ```ṕython3 SWS_Scraper.py```
+
 ## **Limitations**
 - If Google blocks too many searches, some courses will return **"No result found."**
 - Some courses require **manual checking** if their structure differs from the standard TUM course pages.
