@@ -1,7 +1,7 @@
 # TUM Course Scraper: Automate Your Elective Search
 
 ## Overview
-Finding the right elective courses at **Technische Universität München (TUM)** can be tedious, especially when dealing with dozens of options and needing to manually extract important details like **Semesterwochenstunden (SWS)**. This script automates that process, saving you time and effort.
+Finding the right elective courses at Technische Universität München (TUM) can be tedious, especially when dealing with dozens of options and needing to manually extract important details like **Semesterwochenstunden (SWS)**. This script automates that process, saving you time and effort.
 
 ### **Why Does SWS Matter?**
 SWS represents the **weekly time commitment** for a course. If you're under **time pressure** and need an **easy elective** that offers the **most ECTS for the least SWS**, this tool will help you identify the best options. It also determines whether a course has a **written exam**, which can be crucial when planning your semester workload.
