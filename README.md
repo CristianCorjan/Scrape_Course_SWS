@@ -13,6 +13,7 @@ The script performs the following steps:
 3. Returns one of three possible results:
    - `[COURSE_ID] No Exam | SWS: X`
    - `[COURSE_ID] Exam | SWS: X`
+   - `[COURSE_ID] MANUALLY` (if the SWS value is missing or the page was not found)
    - `[COURSE_ID] No result found.` (if Google blocks scraping or the course page isn't found)
 
 ## **Google Scraping Constraints**
